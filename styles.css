@@ -111,6 +111,8 @@ body {
   justify-content: center;
   text-align: center;
   background-color: var(--Off-Black);
+  padding: 1rem;
+  min-height: 100svh;
 }
 
 .container {
